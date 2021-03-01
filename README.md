@@ -29,3 +29,18 @@ Alternatively, one can try the [ZoomOut](https://github.com/llorz/SGA19_zoomOut)
 <p align="center">
   <img align="center"  src="/figures/maps.png"  width=800>
 </p>
+
+
+Shape deformation
+--------------------
+We deform on shape into another and use the corresponding transformation to define the shape similarity between the shape pair for shape analysis. 
+See [`run_nonRigidMatching`](https://github.com/llorz/PROJ2020_jaws/blob/main/run_nonRigidMatching.m) for more details. 
+<p align="center">
+  <img align="center"  src="/figures/deformation.png"  width=400>
+</p>
+
+
+Below we visualize the deformation over iterations. 
+<p align="center">
+<video controls="controls" width="800" height="600" src="/figures/all_jaws_to_sapiens_720p.mov"></video>
+</p>
