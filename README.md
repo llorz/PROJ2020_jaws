@@ -39,8 +39,16 @@ See [`run_nonRigidMatching`](https://github.com/llorz/PROJ2020_jaws/blob/main/ru
   <img align="center"  src="/figures/deformation.png"  width=400>
 </p>
 
+[Here](https://github.com/llorz/PROJ2020_jaws/blob/main/figures/all_jaws_to_sapiens_720p.mov) is a video that visualizes the shape deformation over iterations. 
 
-Below we visualize the deformation over iterations. 
-<p align="center">
-<video controls="controls" width="800" height="600" src="/figures/all_jaws_to_sapiens_720p.mov"></video>
-</p>
+
+Other comments
+--------------------
+- We also provide the code to reproduce the figures in the paper
+- Please let us know (jing.ren@kaust.edu.sa) if you have any question regarding the algorithms/paper (ง ´͈౪`͈)ว 
+or you find any bugs in the implementation (ꐦ°᷄д°᷅)
+- [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). For any commercial uses or derivatives, please contact us (jing.ren@kaust.edu.sa, peter.wonka@kaust.edu.sa, maks@lix.polytechnique.fr).
+
+
+
